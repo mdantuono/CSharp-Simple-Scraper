@@ -1,0 +1,12 @@
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\ScrapeToSQLDatabase.exe.config
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\ScrapeToSQLDatabase.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\ScrapeToSQLDatabase.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\WebDriver.dll
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\WebDriver.xml
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\obj\Debug\ScrapeToSQLDatabase.csprojAssemblyReference.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\obj\Debug\ScrapeToSQLDatabase.csproj.CoreCompileInputs.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\obj\Debug\ScrapeToSQLDatabase.csproj.CopyComplete
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\obj\Debug\ScrapeToSQLDatabase.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\obj\Debug\ScrapeToSQLDatabase.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\WebDriver.Support.dll
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\ScrapeToSQLDatabase\ScrapeToSQLDatabase\bin\Debug\WebDriver.Support.xml
